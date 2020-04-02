@@ -7,4 +7,4 @@ print("""\033[35mO numero digitado foi {}
 Unidade: {}
 Dezena: {}
 Centena: {}
-Milhar: {}""".format(num, un, dez, cen, mil))
+Milhar: {}\033[m""".format(num, un, dez, cen, mil))

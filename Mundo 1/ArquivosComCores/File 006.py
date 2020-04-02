@@ -1,4 +1,4 @@
-num = (int(input('\033[0;33mDigite um numero: ')))
+num = (int(input('\033[0;33mDigite um numero: \033[m')))
 dob = num * 2
 trip = num * 3
 sqrt = num ** (1 / 2)
