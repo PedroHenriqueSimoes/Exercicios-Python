@@ -1,9 +1,9 @@
 num = (int(input('Digite um numero: ')))
 c = 1
-v = num
-while v > 0:
+v = 1
+while v <= num:
     print('{}'.format(v), end='')
-    print(' x ' if v > 1 else print(' = '), end='')
+    print(' x ' if v != num else print(' = '), end='')
     c = c * v
-    v = v - 1
-print(c, end='')
+    v = v + 1
+print('{}'.format(c), end='')

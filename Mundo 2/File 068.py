@@ -28,4 +28,4 @@ while True:
     print(f'Deu {s}')
     print(f'O computador jogou {cpu} e o jogador jogou {num}')
 print(f'O jogador ganhou {cont} vezes mas....')
-print('\033[31mGAME OVER')
+print('\033[31mGAME OVER\033[m')

@@ -9,7 +9,7 @@ while count != 10:
     print('> {} '.format(num), end='')
 while term != 0:
     print('')
-    term = (int(input('Queantos termos a mais (0 encerra):')))
+    term = (int(input('Quantos termos a mais (0 encerra):')))
     sus = 0
     while sus != term:
         num = num + raz

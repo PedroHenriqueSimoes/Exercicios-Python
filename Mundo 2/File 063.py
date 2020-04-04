@@ -10,4 +10,4 @@ while count != n - 1:
     sla = num1 + num2
     print(' {} >'.format(sla), end='')
     num1 = num2
-print(' FIM')
+print(' FIM\033[m')

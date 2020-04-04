@@ -7,12 +7,12 @@ joj = (int(input("""Suas opções:
 1 - Papel 
 2 - Tesoura
 Você escolhe: """)))
-print('\033[7:30mJO  \033[m')
+print('JO')
 sleep(1)
-print('\033[7:30mKEN \033[m')
+print('KEN ')
 sleep(1)
-print('\033[7:30mPO! \033[m')
-print('\033[32m-=\033[35m' * 20)
+print('PO')
+print('-=' * 20)
 if cpu == 0:
     if joj == 0:
         print('Ouve um EMPATE !')
@@ -40,7 +40,6 @@ elif cpu == 2:
         print('Ouve um IMPATE !')
     else:
         print('Ué, o que cê tentou???')
-print('\033[m')
 print('O jogador escolheu {} !'.format(acao[joj]))
 print('O computador escolheu {} !'.format(acao[cpu]))
-print('\033[32m-=' * 20)
+print('-=' * 20)
