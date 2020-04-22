@@ -13,7 +13,7 @@ In total, there are 115 exercises done by me, *Pedro Henrique Simões Souza*, fo
 
 
 
-Mundo|Quantidade de Exercicios|Exercicios comcluídos
+Mundo|Quantidade de Exercicios|Exercicios concluídos
 ---|---|---
 Mundo 1|35|35
 Mundo 2|35|35
