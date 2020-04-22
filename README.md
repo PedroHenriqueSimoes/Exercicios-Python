@@ -17,7 +17,7 @@ Mundo|Quantidade de Exercicios|Exercicios comcluídos
 ---|---|---
 Mundo 1|35|35
 Mundo 2|35|35
-Mundo 2|42|42
+Mundo 3|42|42
 
 [Canal do Curso em video (Channel of Curso em Video)](https://www.youtube.com/cursoemvideo)
 
